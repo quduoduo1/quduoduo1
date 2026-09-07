@@ -3,7 +3,7 @@
 I am a software engineer at a semiconductor company, 
 working on security-critical software for Arm-based SoCs.
 
-## Research Interests
+## Technical Focus
 
 - Secure Boot and Measured Boot
 - OP-TEE, TF-M, RSE, TF-A, and FF-A
