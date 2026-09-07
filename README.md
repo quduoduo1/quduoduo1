@@ -1,16 +1,24 @@
-## Hi there 👋
+## About Me
 
-<!--
-**quduoduo1/quduoduo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer at a semiconductor company, 
+working on security-critical software for Arm-based SoCs.
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Secure Boot and Measured Boot
+- OP-TEE, TF-M, RSE, TF-A, and FF-A
+- TEE Isolation and Arm CCA/RME
+- Attestation and Root of Trust
+- Hardware–Software Security Validation
+
+## Open-Source Contribution
+
+- [OP-TEE/optee_test#677](https://github.com/OP-TEE/optee_test/pull/677)
+  - Fixed `print_properties()` indentation in `ta/os_test/os_test.c`
+  - Merged into the upstream OP-TEE project
+
+## Current Focus
+
+- Trusted-service integration across OP-TEE and RSE
+- Secure boot, measured boot, and attestation validation
+- Reproducible build and test workflows for Arm trusted platforms
