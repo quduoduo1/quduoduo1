@@ -13,12 +13,12 @@ working on security-critical software for Arm-based SoCs.
 
 ## Open-Source Contribution
 
-### OP-TEE Trusted OS
+### OP-TEE OS
 - **[OP-TEE/optee_os#8001](https://github.com/OP-TEE/optee_os/pull/8001)** — Merged
   - Fixed a ring buffer dequeue bug in the Fortuna RNG implementation.
   - Improved error handling and resource cleanup during RNG initialization.
 
-### OP-TEE Test Suite
+### OP-TEE Test
 - **[OP-TEE/optee_test#677](https://github.com/OP-TEE/optee_test/pull/677)** — Merged
   - Fixed indentation in `print_properties()` within `ta/os_test/os_test.c`.
 
